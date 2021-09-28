@@ -1,0 +1,21 @@
+body {
+	text-align: center;
+    color: lime;
+    background-color: black;
+}
+
+button {
+    background-color: lightblue;
+    width: 200px;
+    padding: 25px;
+    border: 15px solid navy;
+    border-radius: 20%;
+  }
+
+button:hover {
+    background-color: lightcyan;
+}
+
+button:active {
+    background-color: lightseagreen;
+}
