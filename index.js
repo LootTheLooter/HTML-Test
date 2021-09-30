@@ -1,3 +1,3 @@
 function OnClick() {
-	window.location.href = "Page2/Page2.html";
+	window.location.href = "Page2.html";
 }
